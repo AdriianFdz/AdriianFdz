@@ -9,8 +9,8 @@ Currently, I’m combining my studies with personal and professional projects, w
 ### 🚀 Technologies & Tools
 - **Languages**: C, C++, Java, Python, Go, Kotlin, HTML, CSS, JavaScript
 - **Build tools**: Gradle, Maven
-- **Frameworks & Libraries**: Django, Spring Boot, Bootstrap, Vue, Thymeleaf
-- **Databases**: MySQL, PostgreSQL, H2, PostgreSQL
+- **Frameworks & Libraries**: Django, Spring Boot, FastAPI, Node.js, Bootstrap, Vue, Thymeleaf
+- **Databases**: MySQL, PostgreSQL, H2, MongoDB, Neo4j, SQLite
 - **Cloud & Others**: AWS, Git, Docker, K8s, Hyperledger Fabric
 
 ### 🛠️ Highlighted Projects

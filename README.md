@@ -87,8 +87,8 @@ A user-friendly web application for reserving karting sessions with a straightfo
 
 **Universidad de Deusto | Bachelor's in Computer Engineering**  
 *Sept 2022 - Jun 2026*  
-- **GPA:** 8.78/10  
-- **12 courses** awarded with **Honors Distinction**
+- **GPA:** 8.86/10  
+- **13 courses** awarded with **Honors Distinction**
 
 ---
 

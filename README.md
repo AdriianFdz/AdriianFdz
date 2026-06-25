@@ -14,14 +14,14 @@ Currently working as a **Software Engineer at DeustoTech**, I contribute to inno
 
 **DeustoTech | Software Engineer**  
 *Jan 2025 - Present*  
-- Designed a multi-organization blockchain network with 10+ participants using Hyperledger Fabric, reducing the regulatory verification lag from 15 months to sub-second real-time immutability.
+- Architected a 10-organization blockchain network on Hyperledger Fabric to replace paper-based green hydrogen certificate workflows, enabling real-time certificate issuance and immutable audit trails.
 - Orchestrated a decentralized network using Kubernetes and Istio, implementing self-healing policies and automated replication to ensure high availability and zero-downtime updates across all nodes.
-- Developed a full-stack platform using React and Node.js to manage digital green hydrogen certificates, bridging decentralized ledger APIs with backend logic to maintain data integrity for stakeholders.
-- Applied zero-trust security principles by configuring TLS and fine-grained access control, securing end-to-end communication and protecting sensitive production data across the distributed network.
+- Developed a full-stack platform using React, Node.js and Go to manage digital green hydrogen certificates, bridging decentralized ledger APIs with backend logic to maintain data integrity for stakeholders.
+- Enforced zero-trust security across a 10-org network by configuring mTLS with per-channel certificate authorities and ABAC policies in Hyperledger Fabric, eliminating unauthorized peer access vectors.
 
 **Telefónica | Software Engineer Research Intern**  
 *Dec 2023 - Jan 2025*  
-- Engineered a scalable ETL pipeline to normalize competency data from 100+ academic programs and 3,000+ ESCO occupations, structuring high-integrity datasets for blockchain-based micro-credentialing.
+- Engineered an ETL pipeline to normalize competency data from 100+ academic programs and 3,000+ European Occupations, structuring high-integrity datasets for blockchain-based micro-credentialing.
 - Improved energy performance tracking by integrating metrics from 300+ solar panels with historical AEMET weather data, enabling the immediate identification of underperforming assets.
 - Designed interactive Power BI analytics to correlate environmental variables with energy output, providing data-driven insights that identified efficiency trends across renewable assets.
 
@@ -29,11 +29,11 @@ Currently working as a **Software Engineer at DeustoTech**, I contribute to inno
 
 ### 🚀 Technologies & Tools
 
-**Languages**: Java, Go, Python, TypeScript, JavaScript, C, C++, Kotlin  
-**Frameworks**: Spring Boot, NestJS, FastAPI, React, Next.js, Django  
-**Infrastructure**: Kubernetes, Docker, Docker Compose, Kong Gateway  
-**Databases**: PostgreSQL, MySQL, Redis, CouchDB, MongoDB, Neo4J  
-**Testing**: JUnit, Mockito, JUnitPerf  
+**Languages**: Java, Go, Python, TypeScript, JavaScript, C, C++, Kotlin 
+**Frameworks**: Spring Boot, NestJS, FastAPI, React, Next.js, Django, Hyperledger Fabric 
+**Infrastructure**: Git, AWS, Kubernetes, Docker, Docker Compose, Istio, Kong Gateway 
+**Databases**:  PostgreSQL, MySQL, Redis, CouchDB, MongoDB, Neo4J  
+**Testing**: Grafana k6, JUnit, Mockito, JUnitPerf 
 **Concepts**: Distributed Systems, REST APIs, Microservices, Container Orchestration, Caching, CI/CD, OAuth2
 
 ---
@@ -43,8 +43,8 @@ Currently working as a **Software Engineer at DeustoTech**, I contribute to inno
 **[ZonaZurigorri](https://github.com/AdriianFdz/ZonaZurigorri)** | *Next.js, NestJS, FastAPI, Kong, PostgreSQL, Redis*  
 *Oct 2025 - Dec 2025*  
 - Engineered a specialized athlete validation engine based on complex sports eligibility rules, integrating OAuth 2.0 via Google and Discord to enable secure, persistent storage of favorite player shortlists.
-- Optimized system responsiveness by 99.9%, reducing validation latency from 15s to 5ms by developing a FastAPI microservice integrated with strategic Redis caching.
-- Designed a robust microservices ecosystem using Kong API Gateway and Docker Compose, streamlining request routing and ensuring secure service-to-service communication.
+- Reduced a 15s validation bottleneck via a dedicated FastAPI microservice with Redis caching, achieving 5ms response time (3,000× improvement).
+- Implemented Kong API Gateway as a single entry point for authentication and validation microservices, decoupling the frontend from individual service endpoints and simplifying client-side integration
 
 **[LinkAuto](https://github.com/oiercar19/LinkAuto)** | *Java, Spring Boot, PostgreSQL*  
 *Mar 2025 - May 2025*  

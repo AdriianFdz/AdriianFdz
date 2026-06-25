@@ -1,16 +1,18 @@
 # Hello! I'm Adrián Fernández 👋
 
-### 🎓 Computer Engineering Student at Universidad de Deusto
+### 🎓 Software Engineer
 
-I'm a passionate **software Engineer** pursuing my Bachelor's in Computer Engineering with an **8.86/10 GPA** and **13 Honors Distinctions**. I have hands-on experience in **blockchain deployment, full-stack development, business intelligence**, and **cloud-native architectures**, solving real-world problems with cutting-edge technologies.
+I'm a passionate **Software Engineer** with a Bachelor's in Computer Engineering from the **Universidad de Deusto**, graduating with an **8.9/10 GPA** and **14 Honors Distinctions**. I have hands-on experience in **blockchain deployment, full-stack development, business intelligence**, and **cloud-native architectures**, solving real-world problems with cutting-edge technologies.
 
-Currently working as a **Software Engineering Intern at DeustoTech**, I contribute to innovative projects in **Hyperledger Fabric blockchain architecture**, **Kubernetes orchestration**, and **sustainable technology solutions**.
+I will soon start my MSc in **Machine Learning at the University of Deusto**, further deepening my expertise in AI and data-driven systems.
+
+Currently working as a **Software Engineer at DeustoTech**, I contribute to innovative projects in **Hyperledger Fabric blockchain architecture**, **Kubernetes orchestration**, and **sustainable technology solutions**.
 
 ---
 
 ### 💼 Professional Experience
 
-**DeustoTech | Software Engineer Intern**  
+**DeustoTech | Software Engineer**  
 *Jan 2025 - Present*  
 - Designed a multi-organization blockchain network with 10+ participants using Hyperledger Fabric, reducing the regulatory verification lag from 15 months to sub-second real-time immutability.
 - Orchestrated a decentralized network using Kubernetes and Istio, implementing self-healing policies and automated replication to ensure high availability and zero-downtime updates across all nodes.
@@ -58,8 +60,8 @@ Currently working as a **Software Engineering Intern at DeustoTech**, I contribu
 
 **Universidad de Deusto | Bachelor's in Computer Engineering**  
 *Sept 2022 - Jun 2026*  
-- **GPA:** 8.86/10  
-- **13 courses** awarded with **Honors Distinction**
+- **GPA:** 8.9/10  
+- **14 Honors Distinctions**
 
 ---
 
@@ -77,4 +79,4 @@ Currently working as a **Software Engineering Intern at DeustoTech**, I contribu
 
 ---
 
-💡 *Looking for a motivated developer with experience in blockchain and full-stack development? Let's connect!*
+💡 *Looking for a motivated Software Engineer with experience in blockchain, distributed systems, and full-stack development? Let's connect!*
